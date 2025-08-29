@@ -1,0 +1,13 @@
+	.card{
+		width:500px; 
+		height: fit-content; 
+		background-color: whitesmoke; 
+		border-radius: 25px; 
+		border: solid 2px navy; 
+		margin: 20px; 
+		padding: 30px; 
+
+	}
+	span { /* coloca uma condição para todos os span */
+		color: navy
+	}
